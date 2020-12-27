@@ -8,4 +8,7 @@ https://instagram-clone-b7068.web.app/
 
 ![instagram3](https://user-images.githubusercontent.com/65226860/103179283-6fad3b80-48b0-11eb-8658-56a1d7f207a5.png)
 
+![instagram2](https://user-images.githubusercontent.com/65226860/103179320-ca469780-48b0-11eb-8ea4-171d161a2b91.png)
+
+
 
